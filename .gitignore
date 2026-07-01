@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+.env
+*.db
+*.db-journal
+*.log
+
+# Frontend build outputs and packages
+frontend/node_modules/
+frontend/dist/
+
+# Backend packages
+backend/node_modules/
+backend/servicesphere.db
+backend/servicesphere.db-journal
